@@ -5,7 +5,7 @@
 - 🤖 Undergraduate student of System analysis and web dev. 
 - 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning system analysis and web development
-- 👯 I’m looking to collaborate on wev dev.
+- 👯 I’m looking to collaborate on web dev.
 - 📫 How to reach me: lucastelesbezerra@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
